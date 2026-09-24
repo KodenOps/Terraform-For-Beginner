@@ -8,6 +8,7 @@ crash.log
 override.tf
 override.tf.json
 *.tfplan
+.gitignore 
 
 # SSH / keys
 *.pem
